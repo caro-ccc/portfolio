@@ -189,7 +189,7 @@
         </v-row>
       </v-col>
       <v-col cols="12" sm="8">
-          <h1 class="mt-18">Send tour message!!!</h1>
+          <h1 class="mt-18">Send tour message!! !</h1>
           <v-divider></v-divider>
       <span class="text-captio"></span>
       <v-row class="mt-10">
